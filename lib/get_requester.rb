@@ -1,4 +1,4 @@
 class GetRequester
-  def initialize
+  def initialize(url)
   end
 end
